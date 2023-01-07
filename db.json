@@ -1,0 +1,39 @@
+{
+  "province-1" :[
+    {
+      "district": "Bhojpur",
+      "area": "1507"
+    },
+    {
+      "district": "Dhankuta",
+      "area": "892"
+    },
+    {
+      "district": "Ilam",
+      "area": "1703"
+    },
+    {
+      "district": "Jhapa",
+      "area": "1606"
+    }
+  ],
+  
+  "province-3" :[
+    {
+      "district": "Bhaktapur",
+      "area": "119"
+    },
+    {
+      "district": "Chitwan",
+      "area": "2218"
+    },
+    {
+      "district": "Dhading",
+      "area": "1926"
+    },
+    {
+      "district": "Dolakha",
+      "area": "2191"
+    }
+  ]
+}
